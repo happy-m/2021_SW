@@ -1,0 +1,15 @@
+﻿  book.c
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(7,8): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(8,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(12,7): warning C4013: 'scanf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(13,9): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(27,30): warning C4013: 'bsearch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(27,122): warning C4133: '=': 'int *'과(와) 'BOOK *' 사이의 형식이 호환되지 않습니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(60,128): warning C4133: '=': 'int *'과(와) 'BOOK *' 사이의 형식이 호환되지 않습니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(106,9): warning C4013: 'memcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(129,24): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(133,9): warning C4013: 'memset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(141,15): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(141,39): warning C4047: 'return': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\admin\source\repos\[60181664_정민]Library2\[60181664_정민]Library2\book.c(148,49): warning C4047: 'return': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  [60181664_정민]Library2.vcxproj -> C:\Users\admin\source\repos\[60181664_정민]Library2\Debug\[60181664_정민]Library2.exe
